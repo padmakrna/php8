@@ -1,6 +1,6 @@
 <?php
 
-$nilai = -7;
+$nilai = 58;
 
 if ($nilai >= 81 and $nilai <= 100) :
     echo "Nilai anda $nilai, anda mendapat nilai A
